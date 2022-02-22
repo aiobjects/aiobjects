@@ -3,7 +3,7 @@
 pipeline{
 	agent{
 	  node{
-		label 'kube-test'
+		label 'kube-test1'
 		customWorkspace WORKSPACE
               }	
 	  parameters{
