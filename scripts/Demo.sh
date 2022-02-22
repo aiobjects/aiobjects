@@ -1,0 +1,1 @@
+echo "First line from w/m"
